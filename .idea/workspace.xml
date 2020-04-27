@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bdfb404-ecb9-46a8-99d9-af070da31167" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b6ajDd92IryXpH9VfOcnZs4Fp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.modis.customerReg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MaskInformationTest.testInvalidPhNumberLength">
+    <configuration name="MaskInformationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModisProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.modis.customerReg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.modis.customerReg" />
+      <option name="MAIN_CLASS_NAME" value="com.modis.customerReg.MaskInformationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskInformationTest.testEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModisProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.modis.customerReg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.modis.customerReg" />
+      <option name="MAIN_CLASS_NAME" value="com.modis.customerReg.MaskInformationTest" />
+      <option name="METHOD_NAME" value="testEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskInformationTest.testInvalidPhNumberLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModisProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.modis.customerReg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.modis.customerReg" />
+      <option name="MAIN_CLASS_NAME" value="com.modis.customerReg.MaskInformationTest" />
+      <option name="METHOD_NAME" value="testInvalidPhNumberLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskInformationTest.testPrintMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModisProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.modis.customerReg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.modis.customerReg" />
+      <option name="MAIN_CLASS_NAME" value="com.modis.customerReg.MaskInformationTest" />
+      <option name="METHOD_NAME" value="testPrintMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskInformationTest.testWithoutUserNameInEmailAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ModisProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.modis.customerReg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.modis.customerReg" />
+      <option name="MAIN_CLASS_NAME" value="com.modis.customerReg.MaskInformationTest" />
+      <option name="METHOD_NAME" value="testWithoutUserNameInEmailAddress" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MaskInformationTest.testInvalidPhNumberLength" />
+        <item itemvalue="JUnit.MaskInformationTest" />
+        <item itemvalue="JUnit.MaskInformationTest.testWithoutUserNameInEmailAddress" />
+        <item itemvalue="JUnit.MaskInformationTest.testEmptyString" />
+        <item itemvalue="JUnit.MaskInformationTest.testPrintMessage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/data-platform-ingestion-engine" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdfb404-ecb9-46a8-99d9-af070da31167" name="Default Changelist" comment="" />
+      <created>1587955129316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587955129316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1587955427034">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1587955427034" />
+    <state x="614" y="391" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587955978812">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="614" y="391" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1587955978812" />
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom" timestamp="1588005050071">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588005050071" />
+    <state width="1638" height="287" key="GridCell.Tab.0.center" timestamp="1588005050070">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588005050070" />
+    <state width="1638" height="287" key="GridCell.Tab.0.left" timestamp="1588005050069">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588005050069" />
+    <state width="1638" height="287" key="GridCell.Tab.0.right" timestamp="1588005050070">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588005050070" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1587956306730">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587956306730" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1587956306729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587956306729" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1587956306728">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587956306728" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1587956306729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587956306729" />
+    <state x="635" y="310" key="chooseDestDirectoryDialog" timestamp="1587955965769">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="635" y="310" key="chooseDestDirectoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587955965769" />
+    <state x="552" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587955565106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="552" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050@0.0.1680.1050" timestamp="1587955565106" />
+  </component>
+</project>
