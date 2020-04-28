@@ -5,7 +5,7 @@ public class MaskInformation {
     /**
      * @param email: string
      * @return masked string
-     *  This method uses regex pattern to mask first and last char before @ to *
+     *  This method uses regex pattern to mask everything but first and last char before @ to *
      */
     private String maskEmail(String email){
         return email.replaceAll("(?<=.{1}).(?=[^@]*?.@)", "*");
